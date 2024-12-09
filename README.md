@@ -1,2 +1,2 @@
 # Javascript
-HandWritten notes for Namaste Javascript course by AKshay Saini
+HandWritten notes by me for Namaste Javascript playlist
